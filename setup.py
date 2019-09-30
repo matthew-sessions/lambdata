@@ -6,8 +6,8 @@ with open('README.md','r') as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="matthewdata2",
-    version="0.0.2",
+    name="lambdata_matthew",
+    version="0.0.5",
     author="matthew",
     description="collection of data",
     long_description=LONG_DESCRIPTION,
