@@ -9,7 +9,7 @@ with open('README.md','r') as fh:
 
 setuptools.setup(
     name="lambdata_matthew",
-    version="0.0.6",
+    version="0.0.8",
     author="matthew",
     description="collection of data",
     long_description=LONG_DESCRIPTION,
